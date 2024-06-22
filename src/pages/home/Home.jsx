@@ -1,6 +1,6 @@
 import React from 'react';
 import "./home.scss";
-import { Featured } from '../../components/featured/Featured';
+import {Featured} from '../../components/featured/Featured';
 
 export function Home() {
     
