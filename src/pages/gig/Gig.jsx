@@ -1,5 +1,7 @@
 import React from 'react';
 import "./gig.scss";
+import Slider from "infinite-react-carousel";
+
 
 export function Gig() {
     
